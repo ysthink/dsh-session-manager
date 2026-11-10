@@ -5,6 +5,14 @@
   "description": "Browse, search and permanently delete stored sessions, individually or per workspace.",
   "type": "module",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysthink/dsh-session-manager.git"
+  },
+  "homepage": "https://github.com/ysthink/dsh-session-manager#readme",
+  "bugs": {
+    "url": "https://github.com/ysthink/dsh-session-manager/issues"
+  },
   "keywords": [
     "dsh-plugin",
     "deepseek-harness",

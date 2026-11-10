@@ -42,7 +42,7 @@ English | [中文](README.zh.md)
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-account>/dsh-session-manager.git
+   git clone https://github.com/ysthink/dsh-session-manager.git
    ```
 
 2. In the Harness, open **Settings → Plugins** and install the cloned directory as a **local bundle**.

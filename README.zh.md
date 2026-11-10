@@ -42,7 +42,7 @@
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/<your-account>/dsh-session-manager.git
+   git clone https://github.com/ysthink/dsh-session-manager.git
    ```
 
 2. 在 Harness 中打开 **设置 → 插件**，把克隆下来的目录作为**本地 bundle** 安装。
