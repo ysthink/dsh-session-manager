@@ -21,13 +21,21 @@
 
 ## 截图
 
-| 会话页 | 回收站 |
-|---|---|
-| ![会话管理](img/sessions-overview.png) | ![回收站与保留策略](img/recycle-bin.png) |
+### 按工作区浏览会话
 
-| 删除确认 | 移除工作区 |
-|---|---|
-| ![删除确认](img/delete-confirm.png) | ![移除工作区](img/remove-workspace.png) |
+![会话管理](img/sessions-overview.png)
+
+### 删除：移入回收站或永久删除
+
+![删除确认](img/delete-confirm.png)
+
+### 移除工作区及其会话
+
+![移除工作区](img/remove-workspace.png)
+
+### 回收站与保留策略
+
+![回收站与保留策略](img/recycle-bin.png)
 
 ## 安装
 

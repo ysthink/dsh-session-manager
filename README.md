@@ -21,13 +21,21 @@ English | [中文](README.zh.md)
 
 ## Screenshots
 
-| Sessions | Recycle bin |
-|---|---|
-| ![Sessions overview](img/sessions-overview.png) | ![Recycle bin and retention](img/recycle-bin.png) |
+### Sessions by workspace
 
-| Delete confirmation | Remove workspace |
-|---|---|
-| ![Delete confirmation](img/delete-confirm.png) | ![Remove workspace](img/remove-workspace.png) |
+![Sessions overview](img/sessions-overview.png)
+
+### Delete: recycle bin or permanent
+
+![Delete confirmation](img/delete-confirm.png)
+
+### Remove a workspace and its sessions
+
+![Remove workspace](img/remove-workspace.png)
+
+### Recycle bin and retention policy
+
+![Recycle bin and retention](img/recycle-bin.png)
 
 ## Installation
 
