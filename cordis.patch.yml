@@ -1,0 +1,7 @@
+- insert:
+    - id: session-manager
+      name: '@local/session-manager'
+      config:
+        # Recycle-bin entries older than this many days are purged when the
+        # session manager page is opened. 0 disables automatic cleanup.
+        trashRetentionDays: 0
